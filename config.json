@@ -1,0 +1,6 @@
+{
+    "idle_seconds": 45,
+    "reset_after_minutes": 5,
+    "pomodoro_minutes": 25,
+    "break_minutes": 5
+}
